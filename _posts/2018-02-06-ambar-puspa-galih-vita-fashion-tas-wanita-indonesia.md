@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Ambar Puspa Galih Vita Fashion Tas Wanita Indonesia
 date: 2018-2-4
 subtitle: >-
