@@ -4,20 +4,20 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (username.github.io) then use these settings:
-#url: "http://username.github.io"
+#url: "http://AmbarPuspaGalih.github.io"
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "http://daattali.github.io/beautiful-jekyll"
-baseurl: "/beautiful-jekyll"
+url: "http://AmbarPuspaGalih.io/AmbarPuspaGalih.github.io"
+baseurl: "/AmbarPuspaGalih.github.io"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Beautiful Jekyll
+title: Ambar Puspa Galih Vita
 
 # Short description of your site
-description: Quickly build a beautiful Jekyll website
+description: Ambar Puspa Galih Vita 
 
 # --- Navigation bar options --- #
 
@@ -40,19 +40,19 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Dean Attali
-  email: "daattali@gmail.com"
+  name: Ambar Puspa Galih Vita
+  email: "ambarpuspagalih@gmail.com"
   facebook: daattali
-  github: daattali
-  twitter: daattali
+  github: ambarpuspagalih
+  twitter: ambarpuspagalih
   linkedin: "pub/dean-attali/8/946/143"
   stackoverflow: "users/3943160/daattali"
  
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
-  email: true
+  facebook: false
+  email: false
   twitter: true
   github: true
   linkedin: false
